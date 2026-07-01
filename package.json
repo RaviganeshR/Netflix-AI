@@ -2,6 +2,7 @@
   "name": "netflix-ai",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://web.app",
   "dependencies": {
     "@reduxjs/toolkit": "^2.12.0",
     "@tailwindcss/cli": "^4.3.1",
